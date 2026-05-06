@@ -1,4 +1,4 @@
-simport React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { supabase } from './supabaseClient';
 import { Lock, Unlock, Sparkles, ClipboardList, ShoppingBag, Eye, Microscope, Send } from 'lucide-react';
 
